@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\Sharkbytes_Full\rateThisApp\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="43dfe26770e77d523ed8b5735352583315e77949">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-5288c288e394378c5bb7d7c0a1970bc7ca26c34f.jar" />
+    </item>
+    <item
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-3f611b91e4e89553378f68fcf283598f790e1008.jar" />
+    </item>
+    <item
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-f0fbbb53f4510f04053e582e2c980bbfb49d25bf.jar" />
+    </item>
+    <item
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41aa21f9c5d9ea9aab32c0b8e33d0c13364063a9">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-4d9f6e02ad171d714f5bbe93e1464b9e5f99b5e8.jar" />
+    </item>
+    <item
+        jar="E:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-0ddb321c69d73c65367b111b92aac776927e6e86.jar" />
+    </item>
+    <item
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-8c42444598a4bef965cd3454511b4144967a212e.jar" />
+    </item>
+
+</items>
