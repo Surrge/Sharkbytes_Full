@@ -8,6 +8,7 @@ android {
         applicationId "com.vie.sharkbytes"
         minSdkVersion 11
         targetSdkVersion 19
+        multiDexEnabled = true
     }
 
     buildTypes {
@@ -23,4 +24,5 @@ dependencies {
     compile 'com.android.support:support-v4:19.1.0'
     compile 'com.google.android.gms:play-services-base:+'
     compile 'com.google.android.gms:play-services-ads:+'
+    compile 'com.amazonaws:aws-android-sdk-sns:+'
 }

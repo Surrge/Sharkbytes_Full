@@ -85,10 +85,15 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="aws-android-sdk-sns-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-21.0.0" level="project" />
     <orderEntry type="library" exported="" name="support-v4-21.0.0" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.2.4" level="project" />
+    <orderEntry type="library" exported="" name="aws-android-sdk-core-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-ads-6.5.87" level="project" />
     <orderEntry type="library" exported="" name="play-services-base-6.5.87" level="project" />
+    <orderEntry type="library" exported="" name="multidex-1.0.0" level="project" />
+    <orderEntry type="library" exported="" name="aws-android-sdk-sqs-2.2.0" level="project" />
     <orderEntry type="module" module-name="rateThisApp" exported="" />
   </component>
 </module>

@@ -10,6 +10,7 @@ import com.google.android.gms.analytics.HitBuilders;
 import com.google.android.gms.analytics.Tracker;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
+import com.google.android.gms.gcm.GoogleCloudMessaging;
 import com.kskkbys.rate.RateThisApp;
 
 public class MenuActivity extends Activity {
@@ -89,9 +90,18 @@ public class MenuActivity extends Activity {
         // GoogleAnalytics, log screen and view
         int playServicesFlag = GooglePlayServicesUtil.isGooglePlayServicesAvailable(this.getApplicationContext());
         if(playServicesFlag == ConnectionResult.SUCCESS) {
+            // Analytics
             Tracker t = ((Global) getApplication()).getTracker(Global.TrackerName.APP_TRACKER);
             t.setScreenName("Main Menu");
             t.send(new HitBuilders.AppViewBuilder().build());
+
+            // Push Notifications
+            GoogleCloudMessaging gcm = GoogleCloudMessaging.getInstance(this);
+            String regid = ((Global) getApplication()).getRegistrationId();
+
+            if (regid.isEmpty()) {
+                ((Global) getApplication()).registerInBackground();
+            }
         }
         else {
             GooglePlayServicesUtil.getErrorDialog(playServicesFlag, this, 0);
