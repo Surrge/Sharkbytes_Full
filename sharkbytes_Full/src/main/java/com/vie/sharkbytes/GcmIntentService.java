@@ -7,14 +7,11 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.util.Log;
 
 import com.google.android.gms.gcm.GoogleCloudMessaging;
 
 public class GcmIntentService extends IntentService {
     public static final int NOTIFICATION_ID = 1;
-    public static final String TAG = "GCM Demo";
-    NotificationCompat.Builder builder;
     private NotificationManager mNotificationManager;
 
     public GcmIntentService() {

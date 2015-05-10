@@ -2,130 +2,11 @@
 <items version="2" >
 
     <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudfront\1.9.31\40bea4502da93f0389a3cab4c5585ce46bc3293a\aws-java-sdk-cloudfront-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="40bea4502da93f0389a3cab4c5585ce46bc3293a">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudfront-1.9.31-d69e49ebc1a38823fcf741fae08dbd9bb26b5137.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-datapipeline\1.9.31\75413dc68a70fa8f415e021a2de10880fdbf2d16\aws-java-sdk-datapipeline-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="75413dc68a70fa8f415e021a2de10880fdbf2d16">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-datapipeline-1.9.31-8b8c7b1ef22139a5bcf2a79fc240832151defa19.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-codedeploy\1.9.31\3c2b23f19369fc52372052872d04ed51ec9b6062\aws-java-sdk-codedeploy-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3c2b23f19369fc52372052872d04ed51ec9b6062">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-codedeploy-1.9.31-a60ef48fa0f172689774b26a5a64e413edec725c.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-dynamodb\1.9.31\32e7599265f2b3417cc29ebf9b834a3150eebcc7\aws-java-sdk-dynamodb-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="32e7599265f2b3417cc29ebf9b834a3150eebcc7">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-dynamodb-1.9.31-0bfb6f65b5ed5fd72f8c8dc5a49bf030d0f30e55.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-workspaces\1.9.31\72d51a371f50abb0a8263936679cb88d1228eed2\aws-java-sdk-workspaces-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="72d51a371f50abb0a8263936679cb88d1228eed2">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-workspaces-1.9.31-0ada16615f08febcb4eddf070d761ef260795fd7.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-swf-libraries\1.9.31\2fa0b18eda852bb78dcaea6482f1d18936d8b174\aws-java-sdk-swf-libraries-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2fa0b18eda852bb78dcaea6482f1d18936d8b174">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-swf-libraries-1.9.31-6528241652fa67172741dc9e4f8ebeaf107bf359.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-rds\1.9.31\91972c55fc2d8395beac7fac81fe3653de671636\aws-java-sdk-rds-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="91972c55fc2d8395beac7fac81fe3653de671636">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-rds-1.9.31-85648c24caebd712bb3cb5ba0e52972c8de03dbb.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.7\5599707a3eaad13e889f691b3af78c8c03842195\joda-time-2.7.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5599707a3eaad13e889f691b3af78c8c03842195">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\joda-time-2.7-24a3dc76b8770975f5d3c4876639741a4c74ba44.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-iam\1.9.31\4d1cac4a055bcfc90246ca9965d65fc7715f2012\aws-java-sdk-iam-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4d1cac4a055bcfc90246ca9965d65fc7715f2012">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-iam-1.9.31-50dd1f63a3456e875ae9b43b684458f8adf66710.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-ssm\1.9.31\313c85323c3067a1008c4bf945327c718d559047\aws-java-sdk-ssm-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="313c85323c3067a1008c4bf945327c718d559047">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-ssm-1.9.31-e903bcf44639ffaeb4270712a2901feb18794028.jar" />
-    </item>
-    <item
         jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\Sharkbytes_Full\rateThisApp\unspecified\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="ba3dd4e23871500a88d8c231ed23fca89db5f20f">
+        sha1="43dfe26770e77d523ed8b5735352583315e77949">
         <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-5288c288e394378c5bb7d7c0a1970bc7ca26c34f.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-ec2\1.9.31\fbf662390831b2dbee93f2473cfad5fbf568e9ae\aws-java-sdk-ec2-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fbf662390831b2dbee93f2473cfad5fbf568e9ae">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-ec2-1.9.31-c404dada66964d9b801375d39083350efa8cc6b5.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-support\1.9.31\eadd4fcff90e151e40b92a5d8a4bff3e229437a9\aws-java-sdk-support-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="eadd4fcff90e151e40b92a5d8a4bff3e229437a9">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-support-1.9.31-90f18eaaf17e84c7e6688593107dce06a6de238b.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk\1.9.31\90f03a6e36dbabc0cb00d4b5abd6e369a741cd60\aws-java-sdk-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="90f03a6e36dbabc0cb00d4b5abd6e369a741cd60">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-1.9.31-bc39399df81212e88b970d59005a2566c61373be.jar" />
-    </item>
-    <item
-        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-8c42444598a4bef965cd3454511b4144967a212e.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-machinelearning\1.9.31\3a324e43852285ec9c9c7687ca6577519050be9f\aws-java-sdk-machinelearning-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3a324e43852285ec9c9c7687ca6577519050be9f">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-machinelearning-1.9.31-b9f9e7375ee9b19960fa4c72581218ae40a496e7.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-kms\1.9.31\5f03494b3399e93800ed28263597167634d8d8ee\aws-java-sdk-kms-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5f03494b3399e93800ed28263597167634d8d8ee">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-kms-1.9.31-84d15e779ba6cf2bf786cf5f386af3563b323fe2.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-5d889449bdb4a8df18433c640f6e9cf092f0e2e0.jar" />
     </item>
     <item
         jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
@@ -135,125 +16,6 @@
         <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-3f611b91e4e89553378f68fcf283598f790e1008.jar" />
     </item>
     <item
-        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\6.5.87\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="41aa21f9c5d9ea9aab32c0b8e33d0c13364063a9">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-4d9f6e02ad171d714f5bbe93e1464b9e5f99b5e8.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-elasticbeanstalk\1.9.31\d1a757e30c560de9a9b02898b4e98e638f76069\aws-java-sdk-elasticbeanstalk-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0d1a757e30c560de9a9b02898b4e98e638f76069">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-elasticbeanstalk-1.9.31-e363519ac034ab644ba179db7f37d72b4f2984c9.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-512942b361e23e00ab7dde968377e9e2c5bb1f55.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-simpleworkflow\1.9.31\3b6256fee2783d701d5af3c126694d68d31b755d\aws-java-sdk-simpleworkflow-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b6256fee2783d701d5af3c126694d68d31b755d">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-simpleworkflow-1.9.31-c08c98b9fde4577089b161ba0c2821e4f0df88e1.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-sns\1.9.31\a87becc28e1786741a4179ce48ffdfd006301fa9\aws-java-sdk-sns-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a87becc28e1786741a4179ce48ffdfd006301fa9">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-sns-1.9.31-1805bcc0d9af03322d94d8b1bbf6a6c0225289b9.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-logs\1.9.31\b8554372b255aef3c47adc6ad180428df8f4cdfb\aws-java-sdk-logs-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b8554372b255aef3c47adc6ad180428df8f4cdfb">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-logs-1.9.31-01bcdcb0350de8ce6f2479b5f589b911abf477aa.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-lambda\1.9.31\607688fe28a8dc2df15b47b058975d36ab1e59d9\aws-java-sdk-lambda-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="607688fe28a8dc2df15b47b058975d36ab1e59d9">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-lambda-1.9.31-52a286462ea398b048d4a7a42e14b3bbc150dfe1.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-ecs\1.9.31\4433ad93c24176bae9dca84756033e0602a1fc9b\aws-java-sdk-ecs-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4433ad93c24176bae9dca84756033e0602a1fc9b">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-ecs-1.9.31-95e7908be52055f1732a9fa01080c5c67e0626f0.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-route53\1.9.31\23c4e9c89d3eb0112b7ab79de59d24f75b879d2e\aws-java-sdk-route53-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="23c4e9c89d3eb0112b7ab79de59d24f75b879d2e">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-route53-1.9.31-80d85c7bd5a9a92a81d6b05f3692cca403b64600.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-autoscaling\1.9.31\5e68efe4050429cd25bb2b2dbef86686acbc5a9d\aws-java-sdk-autoscaling-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5e68efe4050429cd25bb2b2dbef86686acbc5a9d">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-autoscaling-1.9.31-617ee27d9c70ef68bf3dbee1a304da2c1a435f22.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-s3\1.9.31\db55ed680cd8b04526a40f813655c862d6fe419e\aws-java-sdk-s3-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="db55ed680cd8b04526a40f813655c862d6fe419e">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-s3-1.9.31-fbcb93e9c4fe84ecc29c94b8df33c485f09c252e.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudtrail\1.9.31\a28f0fe33636328bdffe7b393b402654647c3ab2\aws-java-sdk-cloudtrail-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a28f0fe33636328bdffe7b393b402654647c3ab2">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudtrail-1.9.31-fe794d3599726e61544817a4f907996a960e5a13.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-redshift\1.9.31\29e1026845d30246dcd86ebac4bd76114546020f\aws-java-sdk-redshift-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29e1026845d30246dcd86ebac4bd76114546020f">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-redshift-1.9.31-4049f600fe7b850a688c3aa9b6bd6e449daacedb.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cognitosync\1.9.31\e1a0915fd5a475ed73cf0ce53c4bf48ee49bb443\aws-java-sdk-cognitosync-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e1a0915fd5a475ed73cf0ce53c4bf48ee49bb443">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cognitosync-1.9.31-571f8866a21d11316dd4a2dac5cc2fd6f996238a.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-importexport\1.9.31\e9727e538f84ea5d0a7b31148a1c1c7ff1ffeb14\aws-java-sdk-importexport-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e9727e538f84ea5d0a7b31148a1c1c7ff1ffeb14">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-importexport-1.9.31-cdd0d1f686480102491cee0553a443e850993a99.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-emr\1.9.31\c12e89ff70b7bdc34ca90cbebede7450cf102429\aws-java-sdk-emr-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c12e89ff70b7bdc34ca90cbebede7450cf102429">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-emr-1.9.31-d1b078a35877e5e08223ccb0f157a785f590a47d.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-c1446f03fbcf88301cd782721be14521919e3c4c.jar" />
-    </item>
-    <item
         jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -261,130 +23,11 @@
         <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-f0fbbb53f4510f04053e582e2c980bbfb49d25bf.jar" />
     </item>
     <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudwatchmetrics\1.9.31\8adf1f0d6e7765a7b89cfa3e41a2c481f51f161f\aws-java-sdk-cloudwatchmetrics-1.9.31.jar"
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\6.5.87\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="8adf1f0d6e7765a7b89cfa3e41a2c481f51f161f">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudwatchmetrics-1.9.31-2710706996b11e21f779e669492f8f74b657188f.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-config\1.9.31\e8bb710589137918bf7cdf81f0a34dce59594349\aws-java-sdk-config-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e8bb710589137918bf7cdf81f0a34dce59594349">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-config-1.9.31-7e9f16bc7123e22f0d2f02dfff24ec7bbad6d213.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-glacier\1.9.31\a3d574770e29a51979a16d0f305ba5689329a95d\aws-java-sdk-glacier-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a3d574770e29a51979a16d0f305ba5689329a95d">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-glacier-1.9.31-2d62baec3588fc67214fc5aaf3f9c75df947c2da.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-simpledb\1.9.31\f1d92d645a28f982a87f7214e4355a2171b6e926\aws-java-sdk-simpledb-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f1d92d645a28f982a87f7214e4355a2171b6e926">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-simpledb-1.9.31-fdf489ba19bef5e67e2ed3bf38b96520df849de3.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-elasticache\1.9.31\cbbad6664f16651ae8d58a1d456ced530437d875\aws-java-sdk-elasticache-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="cbbad6664f16651ae8d58a1d456ced530437d875">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-elasticache-1.9.31-cfd92f7d36e13a22c33577f49f488e7458d87e0f.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-opsworks\1.9.31\efa683b41c3eeebc6884c2d7b8c3060716efffd8\aws-java-sdk-opsworks-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="efa683b41c3eeebc6884c2d7b8c3060716efffd8">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-opsworks-1.9.31-f7c999e9a9b2acb1c8b84f962a0800eb8c818155.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-kinesis\1.9.31\49a3d26a0ea08fdc091caae65d3bd93ae6dace1d\aws-java-sdk-kinesis-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="49a3d26a0ea08fdc091caae65d3bd93ae6dace1d">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-kinesis-1.9.31-fe31e937b9f3b276f2743e4dfa39a7d70a78c0b7.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudwatch\1.9.31\f6693309a37f0c3c57107de1442b3bb77acfc813\aws-java-sdk-cloudwatch-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f6693309a37f0c3c57107de1442b3bb77acfc813">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudwatch-1.9.31-1ba8a00ba2ecc35a164efa20af0419b84db7b806.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudformation\1.9.31\cae458b8370d0473d08f92a655a9dc21599c7dfa\aws-java-sdk-cloudformation-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="cae458b8370d0473d08f92a655a9dc21599c7dfa">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudformation-1.9.31-f7e0bf8ace69f1f26eb80d9b7858cf3aa61e6ca0.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-sqs\1.9.31\8f47aa41f22548dc10f2024acf6a0042f94022ab\aws-java-sdk-sqs-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8f47aa41f22548dc10f2024acf6a0042f94022ab">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-sqs-1.9.31-aa9e36965bbb6b446573a70227a21c05c4c296ad.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cognitoidentity\1.9.31\2c68674bc891dbb3bddfa012b8ad312a40635e08\aws-java-sdk-cognitoidentity-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c68674bc891dbb3bddfa012b8ad312a40635e08">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cognitoidentity-1.9.31-c6c8433253b5d116d81ef9b15b851a9f30d2fe01.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-elastictranscoder\1.9.31\599b4cd37c7cb10d20d76e01e62034cbab3f909c\aws-java-sdk-elastictranscoder-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="599b4cd37c7cb10d20d76e01e62034cbab3f909c">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-elastictranscoder-1.9.31-f8bc3e63928c278e5c1bed1ba1115db3c6706df2.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-sts\1.9.31\e4fdfa4117aa089646de8cf83f83e05dd6c455bd\aws-java-sdk-sts-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e4fdfa4117aa089646de8cf83f83e05dd6c455bd">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-sts-1.9.31-5b98a1b1092c4321dbab0aa0de06e002e503ad28.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudhsm\1.9.31\c11ba6191ef5993e394380c541363088b969fa77\aws-java-sdk-cloudhsm-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c11ba6191ef5993e394380c541363088b969fa77">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudhsm-1.9.31-1478aeaed8195131dfb1d85b169a9e766a3db3ee.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-ses\1.9.31\8772146edbf2adba22fae84a95b3ca02e6b80beb\aws-java-sdk-ses-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8772146edbf2adba22fae84a95b3ca02e6b80beb">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-ses-1.9.31-9ccb1a1a8e399907cb06c65a781737472359f0ac.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-cloudsearch\1.9.31\e2393a7f6092f585a02512b5b2b74e1ba18431\aws-java-sdk-cloudsearch-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="00e2393a7f6092f585a02512b5b2b74e1ba18431">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-cloudsearch-1.9.31-38db57bdff9c1e655cf28e42cf36b4cda7df0e25.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-elasticloadbalancing\1.9.31\9fca46509a10ac76138b8d794280be2af4ff9c49\aws-java-sdk-elasticloadbalancing-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9fca46509a10ac76138b8d794280be2af4ff9c49">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-elasticloadbalancing-1.9.31-e422ad65ac04a0dda1e2832d88396e6ac0d0e6aa.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-storagegateway\1.9.31\b29da28ea95cd8708180b6b512c726b5d2e759e3\aws-java-sdk-storagegateway-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b29da28ea95cd8708180b6b512c726b5d2e759e3">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-storagegateway-1.9.31-24906a9177ee48116e8dd03c24866f24e78ee297.jar" />
+        sha1="41aa21f9c5d9ea9aab32c0b8e33d0c13364063a9">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-4d9f6e02ad171d714f5bbe93e1464b9e5f99b5e8.jar" />
     </item>
     <item
         jar="E:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
@@ -394,18 +37,11 @@
         <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-0ddb321c69d73c65367b111b92aac776927e6e86.jar" />
     </item>
     <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-core\1.9.31\98d64d531825a03ea2c1898676ad02ab819fce9a\aws-java-sdk-core-1.9.31.jar"
+        jar="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="98d64d531825a03ea2c1898676ad02ab819fce9a">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-core-1.9.31-cbe6293d65333a59c5ee337ac574fa50da53d75d.jar" />
-    </item>
-    <item
-        jar="E:\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-java-sdk-directconnect\1.9.31\fae433ce79a2e9910fc59efbe201e5a1aaed4253\aws-java-sdk-directconnect-1.9.31.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fae433ce79a2e9910fc59efbe201e5a1aaed4253">
-        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\aws-java-sdk-directconnect-1.9.31-edd9bb7e00bcbdff8742ad8f2bbf4c7be7bb99b7.jar" />
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\OneDrive\Android\Projects\Sharkbytes_Full\sharkbytes_Full\build\intermediates\pre-dexed\debug\classes-8c42444598a4bef965cd3454511b4144967a212e.jar" />
     </item>
 
 </items>

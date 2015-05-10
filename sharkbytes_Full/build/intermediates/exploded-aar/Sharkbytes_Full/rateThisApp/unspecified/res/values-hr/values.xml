@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/OneDrive/Android/Projects/Sharkbytes_Full/rateThisApp/src/main/res/values-hr/strings.xml -->
+    <!-- From: file:/E:/Android/Projects/Sharkbytes_Full/rateThisApp/src/main/res/values-hr/strings.xml -->
     <eat-comment/>
     <string name="rta_dialog_cancel">Podjeti me kasnije</string>
     <string name="rta_dialog_message">Ako Vam se sviđa ova aplikacija, molimo Vas da odvojite trenutak kako bi je ocijenili. Neće trajati više od minute. Hvala!</string>
