@@ -51,12 +51,13 @@ public class TypeDetailActivity extends Activity {
 	}
 	
 	@Override
-	protected void onResume() {
-		super.onResume();
+	protected void onStart() {
+		super.onStart();
 		
 		//Show Spinner
         spinner = new ProgressDialog(this);
 		spinner.setMessage("Loading " + type + " Sharks...");
+		spinner.setCancelable(false);
 		spinner.show();
 		
 		//Get json data from server
@@ -65,19 +66,14 @@ public class TypeDetailActivity extends Activity {
 	}
 	
 	@Override
-	protected void onPause() {
+	protected void onStop() {
 		//Cancel threads while reference is valid
 		for(GetInfoTask t: jsonTasks) {t.cancel(true);}
 		for(GetBitmapTask t: downloadTasks) {t.cancel(true);}
 		jsonTasks.clear();
 		downloadTasks.clear();
 		
-		super.onPause();
-	}	
-	
-	@Override
-	public void onDestroy() {
-		super.onDestroy();
+		super.onStop();
 	}
 	
 	public void onTaskFinish(GetInfoTask task, String data) {

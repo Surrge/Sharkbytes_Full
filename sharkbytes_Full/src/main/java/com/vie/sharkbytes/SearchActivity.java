@@ -8,9 +8,12 @@ import com.google.android.gms.common.GooglePlayServicesUtil;
 import android.app.Activity;
 import android.location.Location;
 import android.location.LocationManager;
+import android.os.Build;
 import android.os.Bundle;
+import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 public class SearchActivity extends Activity {
 	WebView searchBeachView;
@@ -20,14 +23,25 @@ public class SearchActivity extends Activity {
         super.onCreate(savedInstanceState);
         super.setTheme(R.style.AppBaseTheme);   //ignore app style, bad text color
         setContentView(R.layout.activity_search);
-        this.setTitle("Search Your Beach");
+        this.setTitle(R.string.search_beach_main_text);
 
         searchBeachView = (WebView) findViewById(R.id.searchBeachView);
         searchBeachView.clearCache(true);
         searchBeachView.setBackgroundColor(getResources().getColor(R.color.white_trans));
+        searchBeachView.setWebViewClient(new WebViewClient() {
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                view.loadUrl(url);
+                return true;
+            }
+        });
 
         WebSettings webSettings = searchBeachView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+
+        if (Build.VERSION.SDK_INT >= 11){
+            searchBeachView.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
+        }
 
         LocationManager locationManager = (LocationManager) this.getSystemService(LOCATION_SERVICE);
         String locationProvider = LocationManager.NETWORK_PROVIDER;

@@ -26,25 +26,26 @@ public class FactActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fact);
-        this.setTitle("Shark Facts");
+        this.setTitle(R.string.fact_main_text);
         
         factLayout = (LinearLayout) findViewById(R.id.factLayout);
 
         // GoogleAnalytics, log screen and view
         if(GooglePlayServicesUtil.isGooglePlayServicesAvailable(this.getApplicationContext()) == ConnectionResult.SUCCESS) {
             Tracker t = ((Global) getApplication()).getTracker(Global.TrackerName.APP_TRACKER);
-            t.setScreenName("Shark Facts Screen");
+            t.setScreenName("Shark Facts");
             t.send(new HitBuilders.AppViewBuilder().build());
         }
 	}
 	
 	@Override
-	protected void onResume() {
-		super.onResume();
+	protected void onStart() {
+		super.onStart();
 		
 		//Show Spinner
         spinner = new ProgressDialog(this);
 		spinner.setMessage("Loading Facts...");
+		spinner.setCancelable(false);
 		spinner.show();
 		
 		//Get json data from server
@@ -53,12 +54,12 @@ public class FactActivity extends Activity {
 	}
 	
 	@Override
-	protected void onPause() {
+	protected void onStop() {
 		//Cancel threads while reference is valid
 		for(GetInfoTask t: jsonTasks) {t.cancel(true);}
 		jsonTasks.clear();
 		
-		super.onPause();
+		super.onStop();
 	}
 	
 	public void onTaskFinish(GetInfoTask task, String data) {

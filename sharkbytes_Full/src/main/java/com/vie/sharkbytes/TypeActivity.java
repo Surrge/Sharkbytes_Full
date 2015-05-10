@@ -28,25 +28,30 @@ public class TypeActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_type);
-        this.setTitle("Shark Types");
+        this.setTitle(R.string.identification_main_text);
         
         typeLayout = (LinearLayout) findViewById(R.id.typeLayout);
 
         // GoogleAnalytics, log screen and view
         if(GooglePlayServicesUtil.isGooglePlayServicesAvailable(this.getApplicationContext()) == ConnectionResult.SUCCESS) {
             Tracker t = ((Global) getApplication()).getTracker(Global.TrackerName.APP_TRACKER);
-            t.setScreenName("Shark Types - Menu");
+            t.setScreenName("Shark Identification");
             t.send(new HitBuilders.AppViewBuilder().build());
         }
-        
-    	//Show Spinner
-        spinner = new ProgressDialog(this);
-		spinner.setMessage("Loading Types...");
+	}
+
+	public void onStart() {
+		super.onStart();
+
+		//Show Spinner
+		spinner = new ProgressDialog(this);
+		spinner.setMessage("Loading Sharks...");
+		spinner.setCancelable(false);
 		spinner.show();
-		
+
 		//Get json data from server
 		typeLayout.removeAllViews();
-        jsonTasks.add((GetInfoTask) new GetInfoTask(this).execute("getTypes", ""));
+		jsonTasks.add((GetInfoTask) new GetInfoTask(this).execute("getTypes", ""));
 	}
 	
 	@Override
@@ -55,7 +60,7 @@ public class TypeActivity extends Activity {
 		for(GetInfoTask t: jsonTasks) {t.cancel(true);}
 		jsonTasks.clear();
 				
-		super.onDestroy();
+		super.onStop();
 	}
 	
 	public void onTaskFinish(GetInfoTask task, String data) {

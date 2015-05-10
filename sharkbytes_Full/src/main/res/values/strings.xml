@@ -10,14 +10,14 @@
     <string name="logo">Sharkbytes</string>
     <string name="background">Background Image</string>
     
-    <string name="type_button">Types</string>
-    <string name="fact_button">Facts About Sharks</string>
-    <string name="attack_button">Recent Shark Attacks</string>
-    <string name="search_button">Search Your Beach</string>
-    <string name="howto_button">How To Avoid Shark Attacks</string>
-    <string name="save_button">Save The Shark</string>
-    <string name="wallpaper_button">Wallpapers</string>
-    <string name="puzzle_button">Puzzle</string>
+    <string name="identification_main_text">Shark Identification</string>
+    <string name="fact_main_text">Facts About Sharks</string>
+    <string name="incidents_main_text">Recent Shark Incidents</string>
+    <string name="search_beach_main_text">Search Your Beach</string>
+    <string name="tips_main_text">Tips</string>
+    <string name="save_main_text">Save Sharks</string>
+    <string name="wallpaper_main_text">Wallpapers</string>
+    <string name="puzzle_main_text">Puzzle</string>
     
     <string name="country_button">Search By Country</string>
     <string name="area_button">Search By Area</string>

@@ -18,7 +18,7 @@ public class HowToMenuActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_howto_menu);
-        this.setTitle("Avoiding Shark Attacks");
+        this.setTitle(R.string.tips_main_text);
         
         buttonType = (Button) findViewById(R.id.buttonType);
         buttonReasons = (Button) findViewById(R.id.buttonReasons);
@@ -84,7 +84,7 @@ public class HowToMenuActivity extends Activity {
         // GoogleAnalytics, log screen and view
         if(GooglePlayServicesUtil.isGooglePlayServicesAvailable(this.getApplicationContext()) == ConnectionResult.SUCCESS) {
             Tracker t = ((Global) getApplication()).getTracker(Global.TrackerName.APP_TRACKER);
-            t.setScreenName("Avoiding Attacks - Menu");
+            t.setScreenName("Tips");
             t.send(new HitBuilders.AppViewBuilder().build());
         }
 	}
