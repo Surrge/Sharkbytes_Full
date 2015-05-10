@@ -24,6 +24,7 @@ import com.google.android.gms.gcm.GoogleCloudMessaging;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 
 public class Global extends Application {
     private static final String PROPERTY_TRACKER_ID = "UA-58453573-2";
@@ -42,6 +43,8 @@ public class Global extends Application {
     }
 
     HashMap<TrackerName, Tracker> mTrackers = new HashMap<TrackerName, Tracker>();
+
+    private List<String> Cached_SharkTypes;
 
     public Global() { super(); }
 
@@ -119,5 +122,17 @@ public class Global extends Application {
         editor.putString(PROPERTY_REG_ID, registrationId);
         editor.putInt(PROPERTY_APP_VERSION, appVersion);
         editor.commit();
+    }
+
+    protected boolean EmptySharkTypesCache() {
+        return Cached_SharkTypes == null || Cached_SharkTypes.isEmpty() || Cached_SharkTypes.size() == 0;
+    }
+
+    protected List<String> GetCachedSharkTypes() {
+        return Cached_SharkTypes;
+    }
+
+    protected void SetCachedSharkTypes(List<String> sharkTypes) {
+        Cached_SharkTypes = sharkTypes;
     }
 }
