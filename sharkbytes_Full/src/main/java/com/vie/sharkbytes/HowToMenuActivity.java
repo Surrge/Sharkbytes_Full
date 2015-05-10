@@ -67,7 +67,7 @@ public class HowToMenuActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				Intent intent = new Intent(HowToMenuActivity.this, HowToActivity.class);
-				intent.putExtra("attack", "Dolphins' protection");
+				intent.putExtra("attack", "Dolphins Protection Myth");
 				startActivity(intent);
 			}
 		});
@@ -76,7 +76,7 @@ public class HowToMenuActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				Intent intent = new Intent(HowToMenuActivity.this, HowToActivity.class);
-				intent.putExtra("attack", "Media impacts");
+				intent.putExtra("attack", "Media Myths and Impacts");
 				startActivity(intent);
 			}
 		});
